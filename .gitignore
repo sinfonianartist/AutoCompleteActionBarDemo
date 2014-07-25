@@ -1,0 +1,4 @@
+*.properties
+*.lock
+*.bin
+*.idea
